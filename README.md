@@ -1,4 +1,3 @@
-<h1> snl4.ch </h1>
 <a href="https://wakatime.com/@018b9e44-8c5d-4cd2-89a6-295e180703f3">
   <img src="https://wakatime.com/badge/user/018b9e44-8c5d-4cd2-89a6-295e180703f3.svg" alt="Total time coded since Nov 5 2023" />
 </a>
